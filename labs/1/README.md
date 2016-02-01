@@ -18,3 +18,7 @@ which
 (b) Finds the number EVNUM of elements of A which are
 even, and the number ODNUM of elements of A which
 are odd.
+
+##compile
+
+gcc -Wall -Werror -ansi 3.cpp -o 3
